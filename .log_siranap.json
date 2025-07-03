@@ -1,0 +1,281 @@
+[
+    {
+        "id_tt": "2304060",
+        "jumlah": 1,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 2 di ruangan LT1 KHOTIJAH 2 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "31652152",
+        "jumlah": 1,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 2 di ruangan LT1 KHOTIJAH 1 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "26522382",
+        "jumlah": 1,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 3 di ruangan LT1 AISYAH 1 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "2304100",
+        "jumlah": 1,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 3 di ruangan LT1 AISYAH 2 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "2304098",
+        "jumlah": 1,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 3 di ruangan LT1 AISYAH 3 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "2304097",
+        "jumlah": 1,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 3 di ruangan LT1 AISYAH 4 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "2304096",
+        "jumlah": 1,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 3 di ruangan LT2 AISYAH 1 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "2304095",
+        "jumlah": 1,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 3 di ruangan LT2 AISYAH 2 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "2304094",
+        "jumlah": 1,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 3 di ruangan LT2 AISYAH 3 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "23946534",
+        "jumlah": 1,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 3 di ruangan LT2 AISYAH 4 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "33113854",
+        "jumlah": 1,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 4 di ruangan LT 1  ZAENAB 5 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "33066775",
+        "jumlah": 1,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 4 di ruangan LT 2 ZAENAB 1 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "33066777",
+        "jumlah": 1,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 4 di ruangan LT 2 ZAENAB 2 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "33066779",
+        "jumlah": 1,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 4 di ruangan LT 2 ZAENAB 3 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "33066782",
+        "jumlah": 1,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 4 di ruangan LT 2 ZAENAB 4 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "33066796",
+        "jumlah": 1,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 4 di ruangan LT 2 ZAENAB 5 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "2304168",
+        "jumlah": 1,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 4 di ruangan LT1 ZAENAB 1 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "2304167",
+        "jumlah": 1,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 4 di ruangan LT1 ZAENAB 2 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "2304165",
+        "jumlah": 1,
+        "terpakai": 1,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 4 di ruangan LT1 ZAENAB 3 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "2304134",
+        "jumlah": 1,
+        "terpakai": 1,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 4 di ruangan LT1 ZAENAB 4 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "2304248",
+        "jumlah": 2,
+        "terpakai": 1,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 5 di ruangan LT1 HAPSOH 1 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "2304247",
+        "jumlah": 2,
+        "terpakai": 1,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 5 di ruangan LT1 HAPSOH 2 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "2304243",
+        "jumlah": 2,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 5 di ruangan LT1 HAPSOH 3 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "33066449",
+        "jumlah": 3,
+        "terpakai": 2,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 5 di ruangan LT2 HAPSOH 1 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "33066455",
+        "jumlah": 3,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 5 di ruangan LT2 HAPSOH 2 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "23946897",
+        "jumlah": 1,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 7 di ruangan LT1 HCU telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "33066541",
+        "jumlah": 3,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 38 di ruangan ICU telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "33066550",
+        "jumlah": 2,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 39 di ruangan NICU telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "23946919",
+        "jumlah": 5,
+        "terpakai": 2,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 14 di ruangan PERINATOLOGI telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "31652202",
+        "jumlah": 3,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 12 di ruangan Isolasi 1 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    },
+    {
+        "id_tt": "33066563",
+        "jumlah": 2,
+        "terpakai": 0,
+        "status": 200,
+        "response": "{\"fasyankes\":[{\"status\":\"200\",\"message\":\"Data tempat tidur dengan id_tt 12 di ruangan ISOLASI 2 telah diupdate\"}]}",
+        "timestamp": 1751565726,
+        "error": ""
+    }
+]
