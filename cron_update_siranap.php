@@ -34,9 +34,6 @@ while ($row = $query->fetch_assoc()) {
     $terpakai = (int)$row['terpakai'];
     $jumlah_ruang = max(1, ceil($jumlah / 2));
 
-    // Skip jika tidak ada perubahan
-    $last = $cache[$id_tt] ?? ['jumlah' => null, 'terpakai' => null];
-    if ($last['jumlah'] === $jumlah && $last['terpakai'] === $terpakai) continue;
 
     // Siapkan payload
     $payload = [
